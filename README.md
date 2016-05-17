@@ -1,4 +1,4 @@
 # dataplay
 ## This is a test :)
-lalalallalal merge conflict
+merge conflict
 maybe I should get merge-tools
